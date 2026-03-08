@@ -19,4 +19,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları sıras
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone <BURAYA_GITHUB_REPO_LINKINI_YAZIN>
+   git clone https://github.com/vrlenes/flutter_project
